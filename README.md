@@ -1,6 +1,6 @@
-# Aksarancong Dataset
+# Aksarampung Dataset
 
-This is a dataset of close-up image of handwritten Rencong (Lampung) characters. This dataset contains images of single Rencong character. The reference of the letter is shown in the figure below.
+This is a dataset of close-up image of handwritten Lampung characters. This dataset contains images of single Lampung character. The reference of the letter is shown in the figure below.
 
 <img src="https://lampost.co/wp-content/uploads/2024/02/aksara-lampung.png" height="200"/>
 
